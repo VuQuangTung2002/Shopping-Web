@@ -1,0 +1,1 @@
+<a href="index.php?controller=chitiet_muahang&id=<?php echo $_SESSION["pk_customer_id"]?>" class="simpleCart_empty">Lịch sử mua hàng</a>

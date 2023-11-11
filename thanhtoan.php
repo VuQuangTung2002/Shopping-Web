@@ -1,0 +1,1 @@
+<a target="_blank" href="https://www.nganluong.vn/button_payment.php?receiver=nguyenvandung23041995@gmail.com&product_name=1234&price=10000&return_url=(URL thanh toán thành công)&comments=(Ghi chú về đơn hàng)"><img src="https://www.nganluong.vn/css/newhome/img/button/pay-lg.png"border="0" /></a>
