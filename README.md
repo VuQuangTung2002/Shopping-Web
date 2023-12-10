@@ -1,8 +1,9 @@
 # Shopping-Web
-# asp.net_shopqa
-tạo ra một trang web php,bootstrap,javascript,html,css
-sử dụng ứng dụng: visual studio code
-tên là shop quần áo
+
+<b>tạo ra một trang web php,bootstrap,javascript,html,css</b>
+<br/>
+<b>sử dụng ứng dụng: visual studio code</b>
+<b>tên là shop quần áo</b>
 
 Trang Chủ:
 <img width="941" alt="image" src="https://github.com/VuQuangTung2002/asp.net_shopqa/assets/144264093/918dce8b-59c6-49c9-a8e2-c83f169f7123">
